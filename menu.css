@@ -1,0 +1,17 @@
+section{
+    height:50px;
+    background: linear-gradient(to right, rgb(204, 43, 94), rgb(117, 58, 136));
+    margin-top:5px;
+    transition: transform.2s;
+}
+
+section:hover{
+    transform:scale(0.9);
+}
+
+h2{
+    text-decoration:underline;
+    font-weight:bold;
+    font-size:20px;
+}
+
