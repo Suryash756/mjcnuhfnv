@@ -1,7 +1,8 @@
 
 body{
  border:ridge;
- border-color:black;;
+ border-color:black;
+ border-width: 5px;
 
 }
 
