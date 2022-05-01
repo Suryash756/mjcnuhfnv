@@ -1,0 +1,42 @@
+h2{
+    background: linear-gradient(to right, rgb(204, 43, 94), rgb(117, 58, 136));
+    border:none;
+    font-size:20px;
+}
+
+img{
+    height:100px;
+    width:100px;
+}
+
+#note{
+    background: linear-gradient(to right, rgb(204, 43, 94), rgb(117, 58, 136));
+    border:solid;
+    font-size:20px;
+    width:250px;
+}
+
+section{
+    height:100px;
+    width:250px;
+    margin-top:5px;
+    margin-bottom:5px;      
+}
+
+
+#section{
+    height:150px; 
+}
+
+body{
+    text-align:center;
+    border: solid;
+    border-width:5px;
+}
+#doctor{
+    width:85px;
+}
+
+#section_button{
+    height:60px;
+}
