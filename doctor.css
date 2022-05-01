@@ -1,0 +1,55 @@
+body{
+    text-align:center;
+
+}
+
+img {
+    border-radius: 70%;
+}
+
+section{
+    height:500px;
+    width:300px;
+    background: linear-gradient(to right, rgb(179, 255, 171), rgb(18, 255, 247));
+    
+}
+#section1{
+    width:250px;
+    margin-bottom:30px;
+    height:300px;
+    background: linear-gradient(to right, rgb(185, 147, 214), rgb(140, 166, 219));
+}
+
+h2{
+    font-size:20px;
+}
+
+h2:hover{
+    text-decoration: underline;
+}
+
+#head{
+    border:solid;
+    color:black;
+    border:solid;
+    width:200px;
+}
+a{
+    text-decoration:none;
+}
+
+#head:hover{
+    background-color: green;
+}
+
+img{
+    margin:5px;
+}
+
+button{
+    width:100px;
+}
+
+#other{
+    width:80px;
+}
