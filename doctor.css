@@ -33,6 +33,7 @@ h2:hover{
     color:black;
     border:solid;
     width:200px;
+    background-color: orange;
 }
 a{
     text-decoration:none;
@@ -52,4 +53,11 @@ button{
 
 #other{
     width:80px;
+}
+
+h1{
+    font-size: 30px;
+}
+#name{
+    text-decoration: underline;
 }
